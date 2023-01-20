@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import BannerShape from "../assets/images/shapes/banner-shape-1-1.png";
 import BannerBG from "../assets/images/resources/banner-image-1-1.png";
 import BannerMoc from "../assets/images/resources/vitalog.svg";
-import BannerMoc1 from "../assets/images/resources/mobileMockup1.gif";
+
 
 const Banner = () => {
   const [open, setOpen] = useState({
