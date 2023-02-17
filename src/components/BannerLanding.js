@@ -44,7 +44,7 @@ const Banner = () => {
                 Coming  Soon <br /> 
               </h3>
               <p>
-                We are working hard to give you the<br/> best experience here with VitaLog
+                We are working hard to give you the<br/> best experience here with Vitallog
               </p>
               
             </div>
