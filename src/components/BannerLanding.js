@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 import BannerShape from "../assets/images/shapes/banner-shape-1-1.png";
-import BannerBG from "../assets/images/resources/banner-image-1-1.png";
+import BannerBG from "../assets/images/resources/banner-image-1-1-1.jpg";
 import BannerMoc from "../assets/images/resources/vitalog.svg";
 
 
